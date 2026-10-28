@@ -1,0 +1,10 @@
+ELITE SOLUÇÕES ELÉTRICAS — DEMONSTRAÇÃO XGOLD 2.1
+
+1. Extraia todo o conteúdo na pasta ~/Projetos/Xgold_Sites_Express/
+2. Substitua os arquivos antigos quando solicitado.
+3. Abra index.html no navegador e atualize com Ctrl+Shift+R.
+4. Teste menu, âncoras e formulário. O formulário apenas prepara texto para copiar; não envia dados.
+
+IMPORTANTE: Empresa fictícia, fotos ilustrativas geradas com inteligência artificial e recortadas de um conceito visual. Não são fotografias de trabalhos reais. Não há WhatsApp real configurado.
+
+Antes de vender a clientes, personalize textos, fotos, número de WhatsApp, domínio e escopo contratual.
